@@ -1,0 +1,13 @@
+C:\Users\andre\source\repos\ProjWebWCF1\Dados\bin\Debug\Dados.dll.config
+C:\Users\andre\source\repos\ProjWebWCF1\Dados\bin\Debug\Dados.dll
+C:\Users\andre\source\repos\ProjWebWCF1\Dados\bin\Debug\Dados.pdb
+C:\Users\andre\source\repos\ProjWebWCF1\Dados\bin\Debug\Entidade.dll
+C:\Users\andre\source\repos\ProjWebWCF1\Dados\bin\Debug\EntityFramework.dll
+C:\Users\andre\source\repos\ProjWebWCF1\Dados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andre\source\repos\ProjWebWCF1\Dados\bin\Debug\Entidade.pdb
+C:\Users\andre\source\repos\ProjWebWCF1\Dados\bin\Debug\EntityFramework.xml
+C:\Users\andre\source\repos\ProjWebWCF1\Dados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\andre\source\repos\ProjWebWCF1\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+C:\Users\andre\source\repos\ProjWebWCF1\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\ProjWebWCF1\Dados\obj\Debug\Dados.dll
+C:\Users\andre\source\repos\ProjWebWCF1\Dados\obj\Debug\Dados.pdb
